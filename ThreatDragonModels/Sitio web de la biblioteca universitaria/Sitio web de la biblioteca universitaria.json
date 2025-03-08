@@ -1,0 +1,41 @@
+{
+  "version": "2.4.1",
+  "summary": {
+    "title": "Sitio web de la biblioteca universitaria",
+    "owner": "Edgar Didier Montiel Acosta",
+    "description": "El sitio web de la biblioteca universitaria es la primera implementación de un \nsitio web para brindar servicios en línea a los bibliotecarios y usuarios de la biblioteca \n(estudiantes y personal universitario).",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "Didier"
+      }
+    ],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "DFD sitio web de la biblioteca universitaria",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.4.1",
+        "cells": [],
+        "description": "Diagrama de flujo de datos"
+      },
+      {
+        "id": 1,
+        "title": "DFD  inicio de sesión del usuario para el sitio web de la biblioteca universitaria",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.4.1",
+        "cells": [],
+        "description": "Diagrama de flujo de datos"
+      }
+    ],
+    "diagramTop": 2,
+    "reviewer": "Guillermo Huberto Vera Amaro",
+    "threatTop": 0
+  }
+}
