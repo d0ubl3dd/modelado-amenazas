@@ -2087,7 +2087,7 @@
             "connector": "smooth",
             "data": {
               "type": "tm.Flow",
-              "name": "Data Flow",
+              "name": "UsuarioAutenticado()",
               "description": "",
               "outOfScope": false,
               "reasonOutOfScope": "",
@@ -2099,7 +2099,7 @@
               "threats": []
             },
             "labels": [
-              "Data Flow"
+              "UsuarioAutenticado()"
             ],
             "id": "4d78d641-ebd3-4e25-a82a-8fc906af36d6",
             "source": {
