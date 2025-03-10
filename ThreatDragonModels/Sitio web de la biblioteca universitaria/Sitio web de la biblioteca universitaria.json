@@ -2455,13 +2455,13 @@
             "connector": "smooth",
             "data": {
               "type": "tm.Boundary",
-              "name": "Trust Boundary",
+              "name": "Límite\nWeb server/Db",
               "description": "",
               "isTrustBoundary": true,
               "hasOpenThreats": false
             },
             "labels": [
-              "Trust Boundary"
+              "Límite\nWeb server/Db"
             ],
             "id": "dda2bee8-84b3-43c3-a995-34dd37c299d2",
             "source": {
