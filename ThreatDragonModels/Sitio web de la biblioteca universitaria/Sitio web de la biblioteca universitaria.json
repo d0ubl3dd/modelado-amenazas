@@ -1707,7 +1707,7 @@
           },
           {
             "position": {
-              "x": 90,
+              "x": 80,
               "y": -600
             },
             "size": {
@@ -2128,7 +2128,7 @@
                 "sourceMarker": {
                   "name": ""
                 },
-                "strokeDasharray": null
+                "strokeDasharray": "4 3"
               }
             },
             "width": 200,
@@ -2139,7 +2139,7 @@
               "type": "tm.Flow",
               "name": "UsuarioAutenticado\nResultado",
               "description": "",
-              "outOfScope": false,
+              "outOfScope": true,
               "reasonOutOfScope": "",
               "hasOpenThreats": false,
               "isBidirectional": false,
@@ -2187,7 +2187,7 @@
             "connector": "smooth",
             "data": {
               "type": "tm.Flow",
-              "name": "Data Flow",
+              "name": "Web Response",
               "description": "",
               "outOfScope": false,
               "reasonOutOfScope": "",
@@ -2199,7 +2199,7 @@
               "threats": []
             },
             "labels": [
-              "Data Flow"
+              "Web Response"
             ],
             "id": "74916579-2b3f-4ad2-b577-852f5a32777a",
             "source": {
@@ -2278,7 +2278,7 @@
                 "sourceMarker": {
                   "name": ""
                 },
-                "strokeDasharray": null
+                "strokeDasharray": "4 3"
               }
             },
             "width": 200,
@@ -2287,9 +2287,9 @@
             "connector": "smooth",
             "data": {
               "type": "tm.Flow",
-              "name": "Data Flow",
+              "name": "Visitas",
               "description": "",
-              "outOfScope": false,
+              "outOfScope": true,
               "reasonOutOfScope": "",
               "hasOpenThreats": false,
               "isBidirectional": false,
@@ -2299,7 +2299,7 @@
               "threats": []
             },
             "labels": [
-              "Data Flow"
+              "Visitas"
             ],
             "id": "67ffc5bc-bb9a-488f-a063-09cbe13ffdd3",
             "source": {
@@ -2419,13 +2419,13 @@
             "connector": "smooth",
             "data": {
               "type": "tm.Boundary",
-              "name": "Trust Boundary",
+              "name": "Usuario/Web\nserver límite",
               "description": "",
               "isTrustBoundary": true,
               "hasOpenThreats": false
             },
             "labels": [
-              "Trust Boundary"
+              "Usuario/Web\nserver límite"
             ],
             "id": "7d05091d-0633-492e-abf7-1a15befb5afa",
             "source": {
